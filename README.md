@@ -1,23 +1,21 @@
 ![LinkedIn Banner](https://github.com/Aryan1411/Aryan1411/blob/main/Aryan%20Mishra.png)
 
 
-<h1 align="center">Hi 👋, I'm Prem Kumar</h1>
+<h1 align="center">Hi 👋, I'm Aryan Mishra</h1>
 <h3 align="center">Data Science Student at IIT Madras</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-kumar-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="prem-kumar-sharma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aryan1411&label=Profile%20views&color=0e75b6&style=flat" alt="prem-kumar-sharma" /> </p>
 
-- 📫 How to reach me **viratprem4321@gmail.com**
+- 📫 How to reach me **golumishra1999@gmail.com**
 
-- ⚡ Fun fact **Not Funny 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prem-kumar-a499b1201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prem kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/prem.kr_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prem_kumar_sharma__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@insightbyprem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iitm_techwhiz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/viratprem4321?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@viratprem4321" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-mishra-b12456288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryan Mishra" height="30" width="40" /></a>
+<a href="https://instagram.com/aryanmishra1411/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aryan Mishra" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -67,8 +65,7 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prem-kumar-sharma&show_icons=true&locale=en&layout=compact" alt="prem-kumar-sharma" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryan1411&show_icons=true&locale=en&layout=compact" alt="Aryan Mishra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prem-kumar-sharma&show_icons=true&locale=en" alt="prem-kumar-sharma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryan1411&show_icons=true&locale=en" alt="Aryan Mishra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-kumar-sharma&" alt="prem-kumar-sharma" /></p>
