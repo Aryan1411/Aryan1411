@@ -1,4 +1,4 @@
-![LinkedIn Banner](https://github.com/user-attachments/assets/363a9fbc-493e-42fc-b4bb-8821ab60322d)
+![LinkedIn Banner](https://github.com/Aryan1411/Aryan1411/blob/main/Aryan%20Mishra.png)
 
 
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
